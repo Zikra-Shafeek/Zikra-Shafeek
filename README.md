@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Zikra Shafeek
 
-<!--
-**Zikra-Shafeek/Zikra-Shafeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring developer pursuing my undergraduate studies in IT. With a growing interest in web technologies, I’m dedicated to building practical skills that will help me create impactful digital experiences.
 
-Here are some ideas to get you started:
+## 💻 Education
+**Undergraduate in Information Technology**  
+SLIIT CITY UNI — 1st Year, 2nd Semester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Technical Skills
+- **Languages:** HTML, CSS, JavaScript, C, C#, C++
+- **Currently Exploring:** Git & GitHub, Responsive Web Design, Backend Development Basics
+- **Tools:** VS Code, IntelliJ IDEA
+
+## 🚀 Projects
+- **Jewellery E-commerce Website**  
+  Building a fully responsive website for an academic project. Front end completed, currently working on the back end.
+
+## 🎯 Goals
+- Strengthen frontend development skills  
+- Understand the basics of backend development  
+- Build and contribute to projects on GitHub  
+- Explore open-source contributions
+
+
